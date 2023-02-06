@@ -5,7 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center"><img src="https://profile-counter.glitch.me/{NekoSenpai69}/count.svg" alt="Neko senpai :: Visitor's Count" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raysenpai69&label=Profile%20views&color=0e75b6&style=flat" alt="raysenpai69" /> </p>
 
 - 🔭 I’m currently working on **Atlas MD Bot**
 
