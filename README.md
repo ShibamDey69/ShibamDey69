@@ -1,4 +1,4 @@
-[![MasterHead](https://iili.io/H0kzmYX.jpg)](https://github.com/raysenpai69)
+[![MasterHead](https://iili.io/H1pXXTb.md.png)](https://github.com/raysenpai69)
 
 <h1 align="center">Hi 👋, I'm Neko Senpai</h1>
 <h3 align="center">A newbie coder, Currently learning Web Development</h3>
