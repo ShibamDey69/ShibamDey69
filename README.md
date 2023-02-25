@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [wabots.onrender.com](wabots.onrender.com)
+- 👨‍💻 All of my projects are available at [Nekopai](nekopai.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
