@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Shibam Dey<br>I am a wanna be dev :)<br>Currently working on all in one scraper in TS
+My name is Shibam Dey<br>I am a wanna be dev :)<br>Currently working on nothing 
 
 
 ## 🌐 Socials:
