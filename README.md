@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Shibam Dey<br>I am a wanna be dev and i love cats (⁠≧⁠▽⁠≦⁠) :)<br>Currently working on nothing 
+My name is Shibam Dey<br>I am a wanna be dev and i love cats (⁠≧⁠▽⁠≦⁠) <br>Currently working on nothing 
 
 
 ## 🌐 Socials:
