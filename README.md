@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ShibamDey69/ShibamDey69/main/1000111252.png)
+![](https://raw.githubusercontent.com/ShibamDey69/ShibamDey69/main/20240731_223726.png)
 
 # 💫 About Me:
 My name is Shibam Dey<br>I am a wanna be dev and i love cats (⁠≧⁠▽⁠≦⁠) <br>Currently working on nothing 
