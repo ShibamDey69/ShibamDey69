@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ShibamDey69/ShibamDey69/main/20240731_223726.png)
+![](https://avatars.githubusercontent.com/u/123672103?s=400&u=4aecf8b681103e997fcfb82ad099b27906c8bd3f&v=4)
 
 # 💫 About Me:
 My name is Shibam Dey<br>I am a wanna be dev and i love cats (⁠≧⁠▽⁠≦⁠) <br>Currently working on nothing 
